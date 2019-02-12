@@ -6,7 +6,7 @@ a.bluetxt:link{color:blue;}
 a.largesize:hover{font-size:50pt;}
 a.act:active{color:green;}
 body{
-background-color:red
+background-color:green
 }
 </style>
 <body>
