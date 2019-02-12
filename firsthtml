@@ -1,0 +1,18 @@
+<html>
+<head><title>web</title>
+<style type="text/css">
+a.redtxt:visited{color:red;}
+a.bluetxt:link{color:blue;}
+a.largesize:hover{font-size:50pt;}
+a.act:active{color:green;}
+body{
+background-color:pink
+}
+</style>
+<body>
+<a class=redtxt href="vedio.html" target=_blank>click here</a>
+<a class=bluetxt href="vedio.html" target=_blank>click here</a>
+<a class=largesize href="vedio.html" target=_blank>click here</a>
+<a class=act href="http:www.flipkart.com" target=_blank>click here</a>
+</body>
+</html>
